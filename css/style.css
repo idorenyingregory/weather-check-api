@@ -1,0 +1,8 @@
+/* Special CSS style for the Api weather report output */
+
+#weather-report{
+    font-family: Helvetica;
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-top: 20px;
+  }
